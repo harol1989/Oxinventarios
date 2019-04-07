@@ -8,5 +8,7 @@ namespace Oxinventarios
 {
     class prueba
     {
+        int a;
+         
     }
 }
