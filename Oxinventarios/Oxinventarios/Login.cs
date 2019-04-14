@@ -21,5 +21,13 @@ namespace Oxinventarios
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Inicio ini2 = new Inicio();
+            ini2.Show();
+
+        }
     }
 }
